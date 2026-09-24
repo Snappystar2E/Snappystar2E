@@ -19,6 +19,7 @@ Mi nombre de usuario está inspirado en **L1448-IRS2E**, una protoestrella (estr
 ### 💻 Tecnologías y Herramientas
 <p align="left">
   <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="DevOps" />
   <img src="https://shields.io" alt="Git" />
   <img src="https://shields.io" alt="Markdown" />
 </p>
